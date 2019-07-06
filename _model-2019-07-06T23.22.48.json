@@ -503,7 +503,7 @@
     "weightsManifest": [
         {
             "paths": [
-                "https://github.com/anhttra/tfjs-pretrainedmodel/blob/master/_model-2019-07-06T23.22.48.weights.bin"
+                "https://github.com/anhttra/tfjs-pretrainedmodel/blob/master/_model-2019-07-06T23.22.48.weights.bin?raw=true"
             ],
             "weights": [
                 {
