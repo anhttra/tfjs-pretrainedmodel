@@ -503,7 +503,7 @@
   "weightsManifest": [
     {
       "paths": [
-        "./_model-2019-07-07T08.37.49.weights.bin"
+        "./model-2019-07-07T08.37.49.weights.bin"
       ],
       "weights": [
         {
